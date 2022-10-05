@@ -23,7 +23,7 @@ public class Example4_7 {
 			radio.open(battery);
 			System.out.println("南孚电池现在的电量:" + battery.ele);
 			if (battery.ele <= 20 && battery.ele > 0) {
-				System.out.println("电量低于20%，请及时充电");
+				System.out.printf("电量低于%d%%，请及时充电\n", battery.ele);
 			}
 			else if (battery.ele == 0) {
 				System.out.println("电池没电，收音机已关机");
