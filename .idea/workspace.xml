@@ -70,22 +70,9 @@
       <recent name="C:\Users\22525\Desktop\Code\Java\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.E">
-    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit2.E" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit4.Example4_13" />
+  <component name="RunManager" selected="应用程序.People">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit4.A" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit4.Example4_14" />
+    <configuration name="Example5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit5.Example5_1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit4.*" />
+          <option name="PATTERN" value="unit5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,21 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit4.Example4_20" />
+    <configuration name="People" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="People" />
       <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit4.Test" />
+    <configuration name="sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit4.E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit4.E" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.E" />
-        <item itemvalue="应用程序.Example4_14" />
-        <item itemvalue="应用程序.Example4_13" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.Example4_20" />
+        <item itemvalue="应用程序.People" />
+        <item itemvalue="应用程序.unit4.E" />
+        <item itemvalue="应用程序.A" />
+        <item itemvalue="应用程序.Example5_1" />
+        <item itemvalue="应用程序.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +178,8 @@
       <workItem from="1666510386702" duration="5000" />
       <workItem from="1666683230994" duration="33000" />
       <workItem from="1666683275326" duration="2732000" />
+      <workItem from="1666753876063" duration="1859000" />
+      <workItem from="1666869504527" duration="4317000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1662518470371</created>
@@ -373,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665149153054</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="java">
+      <created>1666748724436</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1666748724436</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
