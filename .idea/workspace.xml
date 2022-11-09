@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7c3f02e-314f-45d7-8924-3a4ed58ca132/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit2/solution2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit2/solution2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit4/Example4_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit4/Example4_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/Example6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/Example6_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +60,7 @@
     "project.structure.last.edited": "工件",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "fileTemplates"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -82,22 +73,9 @@
       <recent name="C:\Users\22525\Desktop\Code\Java\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.sql">
-    <configuration name="Example4_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit4.Example4_7" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example6_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit6.Example6_1" />
+  <component name="RunManager" selected="应用程序.guess">
+    <configuration name="Example6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.Example6_4" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6_1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit6.Example6_1" />
+    <configuration name="Example6_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.Example6_5" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit6.Example6_1" />
+    <configuration name="Example6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.Example6_6" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -135,20 +113,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sql" />
+    <configuration name="Solution6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.Solution6_4" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guess" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="应用程序.Example6_4" />
+      <item itemvalue="应用程序.Example6_5" />
+      <item itemvalue="应用程序.Example6_6" />
+      <item itemvalue="应用程序.Solution6_4" />
+      <item itemvalue="应用程序.guess" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.sql" />
-        <item itemvalue="应用程序.Example6_1 (2)" />
-        <item itemvalue="应用程序.Example4_7" />
-        <item itemvalue="应用程序.Example6_1 (1)" />
-        <item itemvalue="应用程序.Example6_1" />
+        <item itemvalue="应用程序.guess" />
+        <item itemvalue="应用程序.Solution6_4" />
+        <item itemvalue="应用程序.Example6_6" />
+        <item itemvalue="应用程序.Example6_5" />
+        <item itemvalue="应用程序.Example6_4" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +203,7 @@
       <workItem from="1667624675754" duration="148000" />
       <workItem from="1667626192780" duration="24000" />
       <workItem from="1667732274235" duration="167000" />
+      <workItem from="1667958928381" duration="7761000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1662518470371</created>
@@ -409,7 +408,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666874329546</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="java">
+      <created>1667958959621</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667958959621</updated>
+    </task>
+    <task id="LOCAL-00031" summary="java">
+      <created>1667959147595</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1667959147595</updated>
+    </task>
+    <task id="LOCAL-00032" summary="java">
+      <created>1667959197899</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1667959197899</updated>
+    </task>
+    <task id="LOCAL-00033" summary="java">
+      <created>1667959213878</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1667959213878</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
