@@ -24,17 +24,18 @@ public class sql {
 //        4.执行SQL对象Statement，执行SQL的对象
 		Statement statement = connection.createStatement();
 //        5.执行SQL的对象去执行SQL，返回结果集
-		String sql = "SELECT *FROM grade;";
+		String sql = "SELECT * FROM grade;";
 		ResultSet resultSet = statement.executeQuery(sql);
 		while(resultSet.next()){
-			System.out.println("SNo="+resultSet.getString("sid"));
-			System.out.println("SName="+resultSet.getString("sname"));
-			System.out.println("Birth="+resultSet.getString("sage"));
-			System.out.println("SPNo="+resultSet.getString("ssex"));
-			System.out.println("Major="+resultSet.getString("math"));
-			System.out.println("Grade="+resultSet.getString("chinese"));
-			System.out.println("SInstructor="+resultSet.getString("English"));
-			System.out.println("SPwd="+resultSet.getString("cid"));
+			System.out.printf("Sid=%s ", resultSet.getString("sid"));
+			System.out.printf("Sname=%s ", resultSet.getString("sname"));
+			System.out.printf("Sage=%s ", resultSet.getString("sage"));
+			System.out.printf("Ssex=%s ", resultSet.getString("ssex"));
+			System.out.printf("Math=%s ", resultSet.getString("math"));
+			System.out.printf("Chinese=%s ", resultSet.getString("chinese"));
+			System.out.printf("English=%s ", resultSet.getString("English"));
+			System.out.printf("Cid=%s ", resultSet.getString("cid"));
+			System.out.println();
 		}
 //        6.释放连接
 		resultSet.close();
