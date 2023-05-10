@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit3/E2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit3/E2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit4/Example4_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit4/Sample3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit4/Sample4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit6/Solution6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/Solution6_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +263,7 @@
       <workItem from="1683728366538" duration="7000" />
       <workItem from="1683728468994" duration="17000" />
       <workItem from="1683728653103" duration="178000" />
-      <workItem from="1683728867949" duration="248000" />
+      <workItem from="1683728867949" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1662518470371</created>
@@ -527,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669289261083</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="java">
+      <created>1683729161549</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1683729161549</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
