@@ -1,0 +1,64 @@
+1 package unit10;
+2 
+3 /**
+4  * -*- coding: gbk -*-
+5  *
+6  * @author:south(до╥Г) {@code @Date:2022/12/10 9:41}
+7  * @File: S2.java
+8  * {@code @Describe: }
+9  * -*- coding: gbk -*-
+10  */
+11 import java.io.*;
+12 
+13 public class S2 {
+14 
+15     public static void main(String[] args) {
+16 
+17         File file=new File("src\\unit10\\S2.java");
+18 
+19         File tempFile=new File("src\\unit10\\temp.txt");
+20 
+21         try{
+22             FileReader  inOne=new FileReader(file);
+23 
+24             BufferedReader inTwo= new BufferedReader(inOne);
+25 
+26             FileWriter  tofile=new FileWriter(tempFile);
+27 
+28             BufferedWriter out= new BufferedWriter(tofile);
+29 
+30             String s=null;
+31 
+32             int i=0;
+33 
+34             s=inTwo.readLine();
+35 
+36             while(s!=null) {
+37 
+38                 i++;
+39 
+40                 out.write(i+" "+s);
+41 
+42                 out.newLine();
+43 
+44                 s=inTwo.readLine();
+45 
+46             }
+47 
+48             inOne.close();
+49 
+50             inTwo.close();
+51 
+52             out.flush();
+53 
+54             out.close();
+55 
+56             tofile.close();
+57 
+58         }
+59 
+60         catch(IOException ignored){}
+61 
+62     }
+63 
+64 }

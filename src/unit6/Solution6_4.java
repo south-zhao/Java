@@ -17,9 +17,9 @@ public class Solution6_4 {
 }
 
 
-interface Animal {
-    public void cry();
-    public String getAnimalName();
+abstract class Animal {
+    abstract void cry();
+    abstract String getAnimalName();
 }
 
 
@@ -32,9 +32,9 @@ class Simulator {
 }
 
 
-class Cat implements Animal {
-    @Override
-    public void cry() {
+class Cat extends Animal {
+
+    void cry() {
         System.out.println("ß÷ß÷ß÷~~");
     }
 
@@ -45,9 +45,8 @@ class Cat implements Animal {
 }
 
 
-class Dog implements Animal {
-    @Override
-    public void cry() {
+class Dog extends Animal {
+    void cry() {
         System.out.println("ÍôÍôÍô~~~");
     }
 

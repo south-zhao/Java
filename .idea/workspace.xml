@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit3/E2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit3/E2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit4/Example4_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit4/Sample3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit4/Sample4.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unit6/Solution6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/Solution6_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +57,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/south/Desktop/Code/Java",
+    "last_opened_file_path": "C:/Users/south/Desktop/arranging-courses20221219/arranging-courses",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "工件",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -72,13 +80,22 @@
       <recent name="C:\Users\22525\Desktop\Code\Java\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Example7_6">
-    <configuration name="Example7_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit7.Example7_1" />
+  <component name="RunManager" selected="应用程序.DateDemo">
+    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateDemo" />
       <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit12.E12_1" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit7.*" />
+          <option name="PATTERN" value="unit12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit7.Example7_1" />
+    <configuration name="E2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit3.E2" />
       <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit7.*" />
+          <option name="PATTERN" value="unit3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit7.Example7_4" />
+    <configuration name="E9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit9.E9_1" />
       <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit7.*" />
+          <option name="PATTERN" value="unit9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit7.Example7_5" />
+    <configuration name="Example10_2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit10.Example10_2" />
       <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit7.*" />
+          <option name="PATTERN" value="unit10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,34 +145,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit7.Example7_6" />
+    <configuration name="Example10_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit10.Example10_9" />
       <module name="java" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit7.*" />
+          <option name="PATTERN" value="unit10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.Example7_4" />
-      <item itemvalue="应用程序.Example7_5" />
-      <item itemvalue="应用程序.Example7_6" />
-      <item itemvalue="应用程序.Example7_1" />
-      <item itemvalue="应用程序.Example7_1 (1)" />
+      <item itemvalue="应用程序.Example10_2" />
+      <item itemvalue="应用程序.DateDemo" />
+      <item itemvalue="应用程序.E2" />
+      <item itemvalue="应用程序.E12_1" />
+      <item itemvalue="应用程序.E9_1" />
+      <item itemvalue="应用程序.Example10_9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Example7_6" />
-        <item itemvalue="应用程序.Example7_5" />
-        <item itemvalue="应用程序.Example7_4" />
-        <item itemvalue="应用程序.Example7_1 (1)" />
-        <item itemvalue="应用程序.Example7_1" />
+        <item itemvalue="应用程序.DateDemo" />
+        <item itemvalue="应用程序.E2" />
+        <item itemvalue="应用程序.E9_1" />
+        <item itemvalue="应用程序.E12_1" />
+        <item itemvalue="应用程序.Example10_9" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +246,34 @@
       <workItem from="1668689179995" duration="28000" />
       <workItem from="1669075455222" duration="33000" />
       <workItem from="1669169036673" duration="1331000" />
-      <workItem from="1669287224173" duration="1844000" />
+      <workItem from="1669287224173" duration="5103000" />
+      <workItem from="1669617828941" duration="9000" />
+      <workItem from="1669777307336" duration="2465000" />
+      <workItem from="1669793774497" duration="1198000" />
+      <workItem from="1669976275973" duration="1004000" />
+      <workItem from="1670503746113" duration="598000" />
+      <workItem from="1670556750790" duration="1103000" />
+      <workItem from="1670635463161" duration="5148000" />
+      <workItem from="1670827130975" duration="5612000" />
+      <workItem from="1670915323240" duration="10000" />
+      <workItem from="1670915341219" duration="3000" />
+      <workItem from="1670915703908" duration="48000" />
+      <workItem from="1670915765534" duration="542000" />
+      <workItem from="1670916320731" duration="4332000" />
+      <workItem from="1671034370569" duration="5845000" />
+      <workItem from="1671435110351" duration="28000" />
+      <workItem from="1671519928171" duration="2174000" />
+      <workItem from="1671713642504" duration="12000" />
+      <workItem from="1671713663684" duration="47000" />
+      <workItem from="1671713757378" duration="11000" />
+      <workItem from="1679837915768" duration="51000" />
+      <workItem from="1679837976131" duration="326000" />
+      <workItem from="1681544444517" duration="43000" />
+      <workItem from="1683728333741" duration="21000" />
+      <workItem from="1683728366538" duration="7000" />
+      <workItem from="1683728468994" duration="17000" />
+      <workItem from="1683728653103" duration="178000" />
+      <workItem from="1683728867949" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1662518470371</created>
@@ -458,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667967406733</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="java">
+      <created>1669289239910</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669289239910</updated>
+    </task>
+    <task id="LOCAL-00036" summary="java">
+      <created>1669289261083</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1669289261083</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,6 +559,17 @@
     <MESSAGE value="config" />
     <MESSAGE value="java" />
     <option name="LAST_COMMIT_MESSAGE" value="java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit3/E2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
