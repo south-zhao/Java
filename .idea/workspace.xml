@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java" />
+    <list default="true" id="3ae67b0f-b0c4-459e-83c1-7926036bde55" name="变更" comment="java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,39 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/south/Desktop/arranging-courses20221219/arranging-courses",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/south/Desktop/Code/Java/bin/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\south\Desktop\Code\Java\bin\lib" />
       <recent name="C:\Users\22525\Desktop\Code\Java\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.DateDemo">
+  <component name="RunManager" selected="应用程序.Translator">
     <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DateDemo" />
       <module name="java" />
@@ -135,16 +139,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example10_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit10.Example10_9" />
+    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Translator" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,19 +156,19 @@
     </configuration>
     <list>
       <item itemvalue="应用程序.Example10_2" />
+      <item itemvalue="应用程序.Translator" />
       <item itemvalue="应用程序.DateDemo" />
       <item itemvalue="应用程序.E2" />
       <item itemvalue="应用程序.E12_1" />
       <item itemvalue="应用程序.E9_1" />
-      <item itemvalue="应用程序.Example10_9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Translator" />
         <item itemvalue="应用程序.DateDemo" />
         <item itemvalue="应用程序.E2" />
         <item itemvalue="应用程序.E9_1" />
         <item itemvalue="应用程序.E12_1" />
-        <item itemvalue="应用程序.Example10_9" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +262,15 @@
       <workItem from="1683728468994" duration="17000" />
       <workItem from="1683728653103" duration="178000" />
       <workItem from="1683728867949" duration="1050000" />
+      <workItem from="1684023616653" duration="204000" />
+      <workItem from="1684028586810" duration="463000" />
+      <workItem from="1684029066174" duration="34000" />
+      <workItem from="1684029110992" duration="491000" />
+      <workItem from="1684029915635" duration="73000" />
+      <workItem from="1684037406690" duration="18000" />
+      <workItem from="1684234723933" duration="4155000" />
+      <workItem from="1684283068692" duration="26000" />
+      <workItem from="1684283158320" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1662518470371</created>
@@ -531,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683729617690</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="java">
+      <created>1684023634065</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1684023634065</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
