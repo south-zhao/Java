@@ -8,7 +8,7 @@ import java.awt.*;
  *
  * @author:south(до╥Г) {@code @Date:2022/12/15 18:00}
  * @File: E9_1.java
- * {@code @Describe: }
+ * @code @Describe:
  * -*- coding: gbk -*-
  */
 public class E9_1 {
